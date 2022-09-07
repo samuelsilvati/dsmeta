@@ -5,7 +5,7 @@
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-executar">Link do Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-link-do-projeto">Link do Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-licença">Licença</a>
 </p>
 
@@ -16,7 +16,7 @@
 <br>
 
 <p align="center">
-  <img alt="IMAGEM/VIDEO DO PROJETO AQUI" src=".github/moveit.png" width="100%">
+  <a href="https://dsmeta-samuel.netlify.app/"><img alt="print dsmeta" src="https://github.com/samuelsilvati/dsmeta/blob/main/frontend/src/assets/img/dsmeta.png" width="100%"></a>
 </p>
 
 ## ✨ Tecnologias
